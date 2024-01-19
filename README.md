@@ -1,3 +1,1 @@
-<video id="video" controls="" preload="none">
-  <source id="mp4" src="./pull-refresh.mp4" type="video/mp4">
-</videos>
+![Kapture 2024-01-20 at 01.03.22](https://cdn.jsdelivr.net/gh/zb81/blog-assets@main/images/Kapture%202024-01-20%20at%2001.03.22.gif)
